@@ -19,3 +19,5 @@ Once the server is up and running you can access the clock locally at `http://12
 You can refer to the [`soundworks-template`](https://github.com/collective-soundworks/soundworks-template) repository to learn more about the structure of this project.
 
 ## License
+
+BSD-3-Clause
