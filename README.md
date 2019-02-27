@@ -2,7 +2,7 @@
 
 > `shared-clock` is an example application of the [`soundworks`](https://github.com/collective-soundworks/soundworks) framework.
 
-This application presents the implementation a simple clock running in a synchronized transport.
+This application presents the implementation of a simple clock running in a synchronized transport.
 
 ```
 git clone https://github.com/collective-soundworks/soundworks-shared-clock.git
