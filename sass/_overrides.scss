@@ -1,0 +1,15 @@
+#clock {
+  #time {
+  	font-family: consolas, monospace;
+  }
+
+  // background-color
+  &.portrait #time {
+    font-size: 2rem;
+  }
+
+  &.landscape #time {
+    font-size: 4rem;
+  }
+}
+
